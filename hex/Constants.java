@@ -10,7 +10,7 @@ package hex;
  * @author omri
  */
 public interface Constants {
-	enum pos { PLUS , MINUS };
+	enum pos { plus , minus };
     public static final int SIZE = 9;
     public static final int WALL_SIZE = 4;
     public static final int FULL_BOARD = 74;
